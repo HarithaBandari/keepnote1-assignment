@@ -39,7 +39,7 @@ In this case study: Keep Note Step 1, we will develop a monolithic application w
     Step 8: Run the test cases for NoteRepository(NoteRepositoryTest.java)
     Step 9: In NoteController.java, get the application context from resources/beans.xml file using ClassPathXmlApplicationContext() class.Also get Note and NoteRepository objects from the application 			context.Annotate the NoteController.java with @Controller annotation.
     	Define a handler method to read the existing notes from the ArrayList, to read the Note data from requested parameters and save the new note in the Array List and delete a note.
-    Step 10: Run the testcases for NoteController (NoteControllerTest.java)
+    Step 10: Run the test cases for NoteController (NoteControllerTest.java)
     Step 11: Design a form with four text boxes (Note id, title, content and status) and a submit button and A table which shows Note id, title, content, status and the created date.
 
 ### Project structure
